@@ -57,3 +57,16 @@
 .card-footer{
     background-color: white;
 }
+
+#support-us{
+    height: 300px;
+}
+#support-us h6{
+    color: gray;
+}
+
+footer{
+    text-align: center;
+}
+
+
